@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](https://user-images.githubusercontent.com/85321458/166201277-c07d9848-c32a-4b20-8e2b-90ed9748cf54.png)
+![image](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)
 
 
 - 🔭 I’m currently working on a shopping project
