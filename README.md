@@ -9,3 +9,5 @@
 - 💬 Ask me about anything you want
 - 📫 How to reach me: CrooKameron@gmail.com
 - 😄 Pronouns: they-them
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
