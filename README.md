@@ -10,7 +10,7 @@
 - 📫 How to reach me: CrooKameron@gmail.com
 - 😄 Pronouns: they-them
 
-![CrooKameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrooKameron&show_icons=true&theme=dark&hide_border)
+![CrooKameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrooKameron&show_icons=true&hide_border)
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
